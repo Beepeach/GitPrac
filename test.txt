@@ -7,6 +7,7 @@ members:
 - SomSom
 - Peach
 - SumSum
+- Judy
 
 footer:
 test1Footer
