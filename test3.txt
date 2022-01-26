@@ -4,5 +4,6 @@ contents: Test3
 
 members:
 - SomSom
+- Beepeach
 
 footer:
