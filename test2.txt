@@ -5,7 +5,7 @@ contents: Test2!!
 members:
 - BeePeach
 - SomSom
-- Peach
+- Bee
 - Judy
 
 footer:
