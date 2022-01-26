@@ -1,6 +1,6 @@
 title: Test3
 
-contents: Test3
+contents: Test3 Contents
 
 members:
 - SomSom
