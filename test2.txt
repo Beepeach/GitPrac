@@ -1,6 +1,6 @@
 title: Test2
 
-contents: Hi Git
+contents: Test2!!
 
 members:
 - BeePeach
