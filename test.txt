@@ -1,6 +1,6 @@
 title: Test
 
-contents: Hi Git
+contents: Hi merge
 
 members:
 - BeePeach
