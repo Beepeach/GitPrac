@@ -6,5 +6,6 @@ members:
 - BeePeach
 - SomSom
 - Peach
+- SumSum
 
 footer:
