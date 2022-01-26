@@ -5,3 +5,4 @@ contents: Hi Git
 members:
 - BeePeach
 - SomSom
+- Bee
