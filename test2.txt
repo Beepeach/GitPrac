@@ -6,6 +6,7 @@ members:
 - BeePeach
 - SomSom
 - Bee
+- SumSum
 - Judy
 
 footer:
