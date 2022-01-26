@@ -9,3 +9,4 @@ members:
 - SumSum
 
 footer:
+test1Footer
