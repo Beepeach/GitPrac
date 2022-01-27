@@ -1,12 +1,11 @@
 title: Test2
 
-contents: Test2!!
+contents: Test2 Contents
 
 members:
 - BeePeach
 - SomSom
 - Bee
 - SumSum
-- Judy
 
 footer:

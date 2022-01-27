@@ -1,6 +1,6 @@
 title: Test1
 
-contents: Hi merge
+contents: Test1Contents
 
 members:
 - BeePeach
